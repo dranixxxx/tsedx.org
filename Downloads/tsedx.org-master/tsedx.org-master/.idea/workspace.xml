@@ -14,7 +14,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\phamx\Downloads\tsedx.org-master\tsedx.org-master\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bP1bf9NziHkevOjcf7ehFXtRnj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,6 +75,7 @@
       <workItem from="1588518989842" duration="98000" />
       <workItem from="1588567535453" duration="15457000" />
       <workItem from="1588730600703" duration="4899000" />
+      <workItem from="1588748967057" duration="1050000" />
     </task>
     <servers />
   </component>
@@ -83,5 +95,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588748973900" />
+    <state x="630" y="311" key="Github.ShareDialog" timestamp="1588757039138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="630" y="311" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588757039138" />
+    <state x="520" y="121" key="Github.UntrackedFilesDialog" timestamp="1588757059636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="121" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588757059636" />
   </component>
 </project>
